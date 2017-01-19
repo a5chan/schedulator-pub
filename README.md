@@ -19,3 +19,7 @@ Schedulator is built primarily on top of the several technologies
 * Express
 * React & Flux (Flux not integrated yet)
 * Node
+
+# Additional Libraries
+
+* Using a third party HTML template (In the progress of changing it)
