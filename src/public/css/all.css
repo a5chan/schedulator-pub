@@ -1,0 +1,118 @@
+.sh-login-title {
+    font-family : Ubuntu;
+    font-weight : bold;
+    font-size   : 50px;
+}
+
+/* Override since it's annoying. */
+.daterangepicker .ranges {
+    display: none;
+}
+
+.my-google-button-class {
+  margin-right: 15px;
+  background-color: #DD4A40;
+  color: white;
+  text-align: center;
+  border: none;
+  display: inline-flex;
+  flex-wrap: nowrap;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 5px;
+  width: 160px;
+  height: 25px;
+  line-height: 15px;
+}
+
+.my-google-button-class:hover {
+   background-color: #c63e35;
+}
+ 
+ .my-facebook-button-class span {
+  padding-left: 0px;
+ }
+
+.my-facebook-button-class {
+  margin: 0px;
+  background-color: #3B5998;
+  color: white;
+  text-align: center;
+  border: none;
+  display: inline-flex;
+  flex-wrap: nowrap;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 5px;
+  width: 160px;
+  height: 25px;
+  line-height: 15px;
+	/* implement to do logic here */
+}
+
+.my-facebook-button-class:hover {
+  background-color: #2f4d8c;
+}
+
+.example-appear {
+  opacity: 0.01;
+}
+
+.example-appear.example-appear-active {
+  opacity: 1;
+  transition: opacity .5s ease-in;
+}
+
+.full-height{
+	height:100vh;
+}
+
+.remove-margin{
+	margin:0px !important;
+  transition:background 0.5s ease;
+}
+
+.remove-margin:hover{
+  background:#1C2428;
+}
+
+.event-padding{
+  padding-left: 30px !important;
+}
+
+.content {
+  background-image: url("../images/backgrounds/blue_bg.jpg");
+  background-size: 100%;
+
+}
+
+.login-container {
+  background-color: #373a3c;
+  color: white;
+}
+
+.sunjulator-icon, .sunjulator-icon:hover {
+  color: white;
+}
+
+.button-right {
+  text-align: right;
+}
+
+.btn-block:hover {
+  background-color: #177ed1;
+}
+
+.menuItem {
+  border: 1px solid #222D33;
+  background-color: #263238;
+  color: white;
+}
+
+.menuItem:hover {
+  background-color: #304047;
+}
+
+.linkText {
+  color: white;
+}
