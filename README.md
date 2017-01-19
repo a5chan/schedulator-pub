@@ -9,7 +9,7 @@ Schedulator is the ultimate scheduling application built for primarily gaming pu
 * Third party integration (Sign in/Create account with Google, Facebook) 
 * Chat bot integration and online chat bot messaging (Slack & Discord)
 * Event scheduling at times of your choice and customized to your time zone specifically)
-* 
+* Personal profile information for other gamers to form clans (Not started yet)
 
 # Technology Stack
 
